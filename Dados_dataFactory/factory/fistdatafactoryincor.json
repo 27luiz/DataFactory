@@ -1,0 +1,9 @@
+{
+	"name": "fistdatafactoryincor",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "84ffb54c-b08d-46d4-a929-bf4c6240d38e",
+		"tenantId": "606300e2-667c-440a-b15e-bee0a99d9823"
+	}
+}
